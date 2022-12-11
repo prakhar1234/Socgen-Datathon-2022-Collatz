@@ -12,3 +12,6 @@ Loan or overdrafts repayments (failed/delay to repay)
 Industry they belong to (risky industries such as wood-based industries)
 Country of origin/business (risk countries like Libya, Haiti and Chad)
        * Above mentioned points in brackets are to be considered as more risk.
+       
+       
+       Dataset used for training - https://drive.google.com/drive/u/0/folders/18416CcDRnU4_EEC-0u5J_ckzkOrPiq5p
